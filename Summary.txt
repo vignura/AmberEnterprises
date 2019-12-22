@@ -1,74 +1,74 @@
-															----------------------
-															Amber Enterprises Ltd:
-															----------------------
+                                            ----------------------
+                                            Amber Enterprises Ltd:
+                                            ----------------------
 -----------------
 Business Profile:
 -----------------
 1) It is a Indian manufacturing company and it manufactures,
-	1) Integrated solutions for Room Air Conditioners (RACs), Indoor Units (IDUs), Outdoor Units (ODUs),
-	   Split and Window Air Conditioners
-	2) HVACs for railways, metros, buses and Department of Defence. 
-	3) It alos produces critical components like heat exchangers, printed circuit boards (“PCBs”),
-	   system tubing, sheet metal parts, motors and injection moulding parts.
+    1) Integrated solutions for Room Air Conditioners (RACs), Indoor Units (IDUs), Outdoor Units (ODUs),
+       Split and Window Air Conditioners
+    2) HVACs for railways, metros, buses and Department of Defence. 
+    3) It alos produces critical components like heat exchangers, printed circuit boards (“PCBs”),
+       system tubing, sheet metal parts, motors and injection moulding parts.
 2) Recent acqusitions,
-	1) PICL		: A subsidiary of Amber, that was acquired in FY13, is an leading exporter, 
-				  manufacturer and supplier of single phase induction motor for air conditioning unit,
-				  commercial air conditioners and coolers.
-	2) IL JIN  	: It is India’s one of the leading electronic printed circuit board manufacturers 
-				  for consumer electronics. LG, IFB and LS Automotive are among Il JIN’s major clients.
-	3) EVER    	: Ever Electronics is also India’s one of the leading electronic printed circuit board 
-				  manufacturers for consumer electronics. LG, LS Automotive, Powercraft Electronics, 
-				  Godrej and Intangibles Labs are among Ever’s major clients.
-	4) SIDWAL   : Sidwal Refrigeration Industries Private Limited to gain access to knowledge, skills 
-				  and expertise of manufacturing HVACs for railways, metros and buses. The action will 
-				  also provide more comprehensive solutions such as CAC, AHU, FCU to current set of customers
+    1) PICL     : A subsidiary of Amber, that was acquired in FY13, is an leading exporter, 
+                  manufacturer and supplier of single phase induction motor for air conditioning unit,
+                  commercial air conditioners and coolers.
+    2) IL JIN   : It is India’s one of the leading electronic printed circuit board manufacturers 
+                  for consumer electronics. LG, IFB and LS Automotive are among Il JIN’s major clients.
+    3) EVER     : Ever Electronics is also India’s one of the leading electronic printed circuit board 
+                  manufacturers for consumer electronics. LG, LS Automotive, Powercraft Electronics, 
+                  Godrej and Intangibles Labs are among Ever’s major clients.
+    4) SIDWAL   : Sidwal Refrigeration Industries Private Limited to gain access to knowledge, skills 
+                  and expertise of manufacturing HVACs for railways, metros and buses. The action will 
+                  also provide more comprehensive solutions such as CAC, AHU, FCU to current set of customers
 3) Key Customers,
-	1) RAC Segment:
-			MNCs	: Panasonic, Daikin, LG, Hitachi and Whirlpool.
-			Indian	: Voltas, Godrej, Blue Star, Havels (newly added)
-	2) HVAC segment:
-		Railways and metros 	: Integral Coach Factory (ICF), Rail Coach Factory (RCF), 
-								  Diesel Locomotive Works (DLW), Chittaranjan Locomotive Works (CLW),
-								  Bharat Earth Movers Limited (BEML), 
-								  China Railway Rolling Stock Corporation (CRRSC)
-		Defence 				: Bharat Electronics Limited (BEL)
-		Telecom 				: Department of Telecom (DoT)
-		Bus 					: Original Equipment Manufacturers (OEMs)
+    1) RAC Segment:
+            MNCs    : Panasonic, Daikin, LG, Hitachi and Whirlpool.
+            Indian  : Voltas, Godrej, Blue Star, Havels (newly added)
+    2) HVAC segment:
+        Railways and metros     : Integral Coach Factory (ICF), Rail Coach Factory (RCF), 
+                                  Diesel Locomotive Works (DLW), Chittaranjan Locomotive Works (CLW),
+                                  Bharat Earth Movers Limited (BEML), 
+                                  China Railway Rolling Stock Corporation (CRRSC)
+        Defence                 : Bharat Electronics Limited (BEL)
+        Telecom                 : Department of Telecom (DoT)
+        Bus                     : Original Equipment Manufacturers (OEMs)
 4) Dedicated R&D lab at Rajpura largely drives the ODM business, which has dedicated team of 
    36 employees with engineering background, having expertise in the areas of energy 
    efficient designs, simulations and 3D designing, amongst others.
 5) Market Share: (FY 2018)
-		1) Outdoor units (ODU)	: 49 %
-		2) Indoor units (ODU)	: 78 %
-		3) Window ACs 			: 60 %
+        1) Outdoor units (ODU)  : 49 %
+        2) Indoor units (ODU)   : 78 %
+        3) Window ACs           : 60 %
 
 -------------------
 Management Profile:
 -------------------
 1) Jasbir Singh - Chairman & CEO
-		Over 15 years of experience in RAC Manufacturing sector
-		Instrumental in successful commissioning of 6 factories in last 10 years
-		Initiated the concept of additive manufacturing solutions
-		Handles key customer relationships
-		Engineering in Industrial Production, Karnataka University & MBA from University of Hull, 
-		United Kingdom
+        Over 15 years of experience in RAC Manufacturing sector
+        Instrumental in successful commissioning of 6 factories in last 10 years
+        Initiated the concept of additive manufacturing solutions
+        Handles key customer relationships
+        Engineering in Industrial Production, Karnataka University & MBA from University of Hull, 
+        United Kingdom
 2) Daljit Singh - Managing Director
-		Over 11 years of experience in RAC Manufacturing sector
-		Previously worked with Morgan Stanley in New York
-		Engineering in Electronics, Nagpur University & Master’s in Information Technology, 
-		Rochester Institute of Technology, USA
+        Over 11 years of experience in RAC Manufacturing sector
+        Previously worked with Morgan Stanley in New York
+        Engineering in Electronics, Nagpur University & Master’s in Information Technology, 
+        Rochester Institute of Technology, USA
 3) Sanjay Arora - Director (Operations)
-		Responsible for operations, innovation, security & legal matters
-		36 years of work experience; joined Amber in 2012
-		Electrical Engineering from YMCA Institute of Engineering, Faridabad
+        Responsible for operations, innovation, security & legal matters
+        36 years of work experience; joined Amber in 2012
+        Electrical Engineering from YMCA Institute of Engineering, Faridabad
 4) Sudhir Goyal - CFO
-		Responsible for Finance & Accounts
-		15+ years of work experience; joined Amber in 2012
-		Chartered Accountant from ICAI, B. Com (Hons) from Delhi University	
+        Responsible for Finance & Accounts
+        15+ years of work experience; joined Amber in 2012
+        Chartered Accountant from ICAI, B. Com (Hons) from Delhi University 
 5) Mr. Manoj Kumar Sehrawat - Independent Director
-		Chartered Accountant and Member of the Institute of Chartered Accountants of India 
-		Bachelors in Commerce from Delhi University
-		He was Vice President with *** JP Morgan’s *** Asia Special Situations Group
+        Chartered Accountant and Member of the Institute of Chartered Accountants of India 
+        Bachelors in Commerce from Delhi University
+        He was Vice President with *** JP Morgan’s *** Asia Special Situations Group
 
 -----------
 Financials:
@@ -76,36 +76,36 @@ Financials:
 1) Raised Rs 600 Cr through our initial public offering (IPO) during 2017-18 and the response was 
    overwhelming - 165 times oversubscription of the issue!.
 2) Revenue Breakup by Segments: 
-			-------------------------------------------------------------------
-			Segment	(Revenue in Lakhs)			FY 2017		FY 2018		FY 2019
-			-------------------------------------------------------------------
-			Room Air conditioners				125183		154043		174075
-			Room Air conditioner components		18927		29993		41719
-			Non-Air conditioner components		21076		28771		59405
-			Total								165186		212807		275199
-			-------------------------------------------------------------------
-			Rvenue Breakup in %					FY 2017		FY 2018		FY 2019	
-			-------------------------------------------------------------------
-			Room Air conditioners				75.78		72.39		63.25
-			Room Air conditioner components		11.46		14.09		15.16
-			Non-Air conditioner components		12.76		13.52		21.59
-			-------------------------------------------------------------------
+            -------------------------------------------------------------------
+            Segment (Revenue in Lakhs)          FY 2017     FY 2018     FY 2019
+            -------------------------------------------------------------------
+            Room Air conditioners               125183      154043      174075
+            Room Air conditioner components     18927       29993       41719
+            Non-Air conditioner components      21076       28771       59405
+            Total                               165186      212807      275199
+            -------------------------------------------------------------------
+            Rvenue Breakup in %                 FY 2017     FY 2018     FY 2019 
+            -------------------------------------------------------------------
+            Room Air conditioners               75.78       72.39       63.25
+            Room Air conditioner components     11.46       14.09       15.16
+            Non-Air conditioner components      12.76       13.52       21.59
+            -------------------------------------------------------------------
 --------
 Outlook:
 --------
 1) The Indian RAC market promises tremendous growth potential owing to its lower penetration as 
    compared to its global counterparts. The Indian RAC market volumes are expected to record a 
    CAGR of 12.8% from FY 2017 to FY 2022.
-									--------------------
-									From FY 2018, Report 
-									--------------------
-									Global 		: 30  %		
-									China 		: 100 %
-									Japan		: 91  %
-									Malaysia	: 54  %
-									Thailand	: 30  %
-									India 		: 4   %
-									--------------------
+                                    --------------------
+                                    From FY 2018, Report 
+                                    --------------------
+                                    Global      : 30  %     
+                                    China       : 100 %
+                                    Japan       : 91  %
+                                    Malaysia    : 54  %
+                                    Thailand    : 30  %
+                                    India       : 4   %
+                                    --------------------
 2) Many households are even installing multiple air conditioners. The change in the climatic 
    conditions and prolonged summers are further driving the need for an AC comfort. Several 
    schools and office places which were earlier dependent on fans are now installing ACs. 
@@ -115,16 +115,16 @@ Outlook:
    during 2014-24 period (Source: globenewswire.com). This market growth can be attributed to
    the increasing number of high-rise buildings, shopping complexes & malls, and hypermarkets.
 4) Threats:
-	1) Downward trend in OEM/ODM Business: 
-		If existing Brand’s do not continue to outsource the manufacturing of their products or 
-		reduce the amount of outsourcing, it could pose a possible threat for the Company.
-	2) Import duty structure:
-		Any change in import duty structure towards lowering of import duties shall trigger 
-		possibility of outsourcing from China. Thus, posing threat to our companies RAC business 
-	3) Client Concentration: 
-		The Company’s business is largely dependent on certain key customers for a significant 
-		portion of its sales. The loss of any one of the key customers or a significant reduction 
-		in demand from such customers could have an adverse effect on our business.
+    1) Downward trend in OEM/ODM Business: 
+        If existing Brand’s do not continue to outsource the manufacturing of their products or 
+        reduce the amount of outsourcing, it could pose a possible threat for the Company.
+    2) Import duty structure:
+        Any change in import duty structure towards lowering of import duties shall trigger 
+        possibility of outsourcing from China. Thus, posing threat to our companies RAC business 
+    3) Client Concentration: 
+        The Company’s business is largely dependent on certain key customers for a significant 
+        portion of its sales. The loss of any one of the key customers or a significant reduction 
+        in demand from such customers could have an adverse effect on our business.
 
 -----------
 Conclusion:
